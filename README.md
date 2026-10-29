@@ -24,11 +24,12 @@ O programa roda em loop contínuo permitindo a inserção de sucessivas vendas. 
 ## Execução
 
 1. Clone este repositório:
-	```bash
-	git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   ```bash
+   git clone [https://github.com/GQGC/Desafio-Nivel-1-PDV-com-Descontos-Python.git](https://github.com/GQGC/Desafio-Nivel-1-PDV-com-Descontos-Python.git)
+ 
 
 2. Acesse a pasta do projeto:
-cd nome-do-repositorio
+cd Desafio-Nivel-1-PDV-com-Descontos-Python
 
 3.Execute o script "pdv.py"
 	python pdv.py
